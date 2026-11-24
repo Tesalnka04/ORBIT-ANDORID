@@ -1,0 +1,8 @@
+{
+  "appId": "com.defo.orbit",
+  "appName": "ORBIT",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
